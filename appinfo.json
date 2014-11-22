@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "randName() Corp.",
+    "longName": "Simple Analog",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Simple",
+    "uuid": "3d6d77e5-6676-409e-9415-6103536bd26b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
